@@ -1,0 +1,23 @@
+{
+    "name": "markrefaat/livewire-modal",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Markrefaat\\LivewireModal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "markRefaat",
+            "email": "mark1711712@miuegypt.edu.eg"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Markrefaat\\LivewireModal\\LivewireModalServiceProvider"
+            ]
+        }
+    }
+}

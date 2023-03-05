@@ -1,6 +1,10 @@
 {
     "name": "markrefaat/livewire-modal",
+    "description": "Livewire Modal",
     "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "homepage": "https://github.com/markMichail/livewire-modal",
     "autoload": {
         "psr-4": {
             "Markrefaat\\LivewireModal\\": "src/"
